@@ -1,0 +1,11 @@
+anthropic
+langgraph
+fastapi
+uvicorn[standard]
+gitpython
+PyGithub
+pydantic-settings
+bandit
+pip-audit
+pytest
+httpx
